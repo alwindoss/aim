@@ -1,0 +1,2 @@
+# aim
+AppImage Manager
